@@ -54,13 +54,7 @@ A-API-Cachorro
 A aplicação foi publicada utilizando **Vercel**.
 
 Link do deploy:
-(coloque aqui o link do deploy)
-
----
-
-## 📷 Demonstração
-
-(Adicione aqui prints da aplicação funcionando)
+(https://dog-api-kappa-nine.vercel.app/)
 
 ---
 
