@@ -82,4 +82,7 @@ console.error(erro)
 }
 
 // adiciona um evento no botão para executar a busca quando ele for clicado
+
+
+
 buscarcachorros.addEventListener("click", BuscarCachorros)
